@@ -9,6 +9,10 @@
 ## Special Offer
 - New users: 20% off for the first purchase
 
+<<<<<<< HEAD
+## CoffeeHut Wallet Plan
+- Loyal customers using CoffeeHut Wallet: Accumulate loyalty points for each purchase, convertible to currency in the next purchase. 
+=======
 ## Custom Plans
 
 ### Daily Users
@@ -19,3 +23,4 @@
 
 ### Quarterly Users
 - Customers who make purchases every quarter: 15% off
+>>>>>>> main
